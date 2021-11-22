@@ -1,6 +1,6 @@
-# FlightSurety
+# Flight Insurance
 
-FlightSurety is a sample application project for  flight insurance 
+It is a sample implementation 
 
 ## Install
 
